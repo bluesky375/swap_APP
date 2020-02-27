@@ -1,9 +1,9 @@
 //
 //  CardModel.swift
-//  Swap!
+//  Swaping
 //
 //  Created by Catalina on 10/4/19.
-//  Copyright © 2019 Swap!. All rights reserved.
+//  Copyright © 2019 Swaping. All rights reserved.
 //
 
 import UIKit

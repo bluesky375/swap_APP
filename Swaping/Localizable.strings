@@ -1,0 +1,179 @@
+/* 
+  Localizable.strings
+  Swaping
+
+  Created by Catalina on 8/27/19.
+  Copyright © 2019 Swaping. All rights reserved.
+*/
+
+
+curLang =                                   "en";
+appName =                                   "Swap";
+
+//LoginPage
+email =                                     "Email";
+password =                                  "Password";
+login =                                     "Login";
+pleaseLogin =                               "Please Login!";
+loginWithFacebook =                         "Login with Facebook";
+loginWithGoogle =                           "Login with Google";
+signup =                                    "Sign Up";
+warning =                                   "Warning";
+pleaseEnterEmail =                          "Please Enter Email!";
+pleaseEnterPhone =                          "Please Enter Phone!";
+pleaseEnterPinCode =                        "Please Enter PinCode!";
+pleaseEnterCorrectPinCode =                 "Please Enter Correct PinCode!";
+pleaseEnterFirstName =                      "Please Enter First Name!";
+pleaseEnterLastName =                       "Please Enter Last Name!";
+pleaseEnterTitle =                          "Please Enter Title!";
+pleaseEnterOccupation =                     "Please Enter Occupation!";
+invalidEmail =                              "Invalid Email!";
+invalidPhone =                              "Invalid Phone";
+pleaseEnterPassword =                       "Please Enter Password!";
+passwordMinLength =                         "Password should be minimum 6 characters.";
+pleaseWait =                                "Please wait...";
+error =                                     "Error";
+ok =                                        "OK";
+cancel =                                    "Cancel";
+
+//SignupPage
+userName =                                  "User name";
+confirmPassword =                           "Confirm password";
+whereHaveYouBeen =                          "Where have you been?";
+continue =                                  "Continue";
+pleaseEnterUsername =                       "Please enter user name!";
+passwordNotMatched =                        "Password was not matched!";
+success =                                   "Success!";
+
+//SelectCityPage
+search =                                    "Search";
+done =                                      "DONE";
+
+//MenuPage
+home =                                      "HOME";
+newsFeed =                                  "NEWS FEED";
+messages =                                  "MESSAGES";
+notifications =                             "NOTIFICATIONS";
+network =                                   "NETWORK";
+settings =                                  "SETTINGS";
+searchPage =                                "SEARCH";
+logout =                                    "LOG OUT";
+newbie =                                    "Newbie";
+
+//MainPage
+profile =                                   "PROFILE";
+
+//HomePage
+pressOnThisButtonForMenu =                  "Press on this button for menu";
+qualimoments =                              "Qualimoments";
+
+//PullUpPage
+top10 =                                     "Top 10 ";
+top10In =                                   "Top 10 in";
+chooseOtherCity =                           "Click to choose an other city";
+restaurant =                                "Restaurant";
+caffeShop =                                 "Caffe shop";
+hotels =                                    "Hotels";
+carRental =                                 "Car rental";
+touristAttractions =                        "Tourist attractions";
+other =                                     "Other";
+
+//FindCityPage
+findCity =                                  "Find City";
+
+//NewsFeedPage
+recommend =                                 "Recommend";
+share =                                     "Share";
+comment =                                   "Comment";
+pleaseEnterComment =                        "Please enter comment";
+
+//NetworkPage
+peopleYouMayKnow =                          "People you may know";
+viewConnections =                           "View Connections";
+connect =                                   "Connect";
+disconnect =                                "Disconnect";
+mutualConnections =                         "mutual connections";
+connected =                                 "Connected";
+
+//ProfilePage
+tours =                                     "Tours";
+reviews =                                   "Reviews";
+posts =                                     "Posts";
+Friends =                                   "Friends";
+editProfile =                               "Edit Profile";
+logout1 =                                   "Log out";
+
+//EditProfilePage
+city =                                      "City";
+pleaseEnterYourself =                       "Please enter yourself";
+
+//SelectCityPage
+chooseCity =                                "Choose City";
+
+//MypostsPage
+myPosts =                                   "My posts";
+
+//NewPostPage
+newPost =                                   "New Post";
+uploadPhoto =                               "Upload photo";
+tagPleaceholder =                           "Add your tags";
+writeDesciption =                           "Write a description here...";
+upload =                                    "Upload";
+pleaseSelectPhoto =                         "Please select your photo";
+pleaseSelectCompanyLogo =                         "Please select your company logo";
+pleaseSelectCard =                          "Please select card";
+pleaseEnterTag =                            "Please enter tags";
+pleaseEnterDescription =                    "Please enter description";
+
+//ToursPage
+placesVisited =                             "Places you've visited";
+
+//NewMessagePage
+newMessage =                                "New Message";
+suggested =                                 "Suggested";
+
+//SettingsPage
+notifications1 =                            "Notifications";
+subscribeToTheQualinews =                   "Subscribe to the qualinews";
+notificationSound =                         "Notification sound";
+feedbackAndSupport =                        "Feedback & support";
+sendFeedback =                              "Send feedback";
+sendBugReport =                             "Send the bug report";
+faq =                                       "FAQ";
+legal =                                     "Legal";
+privacyPolicy =                             "Privacy policy";
+openSourceLicense =                         "Open Source License";
+
+//FeedbackPage
+feedback =                                  "Feedback";
+feedbackDesc =                              "We are looking forward to your constructive and anonymous feedback, what is good and what could be improved!";
+submit =                                    "Submit";
+pleaseEnterFeedback =                       "Please enter feedback...";
+
+//BugReportPage
+bugReport =                                 "Bug Report";
+pleaseEnterBug =                            "Please enter bug...";
+
+//LicensePage
+sourceLicense =                             "Source License";
+
+notification_start_following_key =          "New follower";
+notification_start_following_body =         "%@ started following you";
+noti_start_following_body =                 "started following you";
+
+notification_new_post_title =               "New Post";
+notification_new_post_body =                "%@ has published a new post";
+noti_new_post_body =                        "has published a new post";
+
+notification_new_review_title =             "New Review";
+notification_new_review_body =              "%@ has reviewed %@";
+noti_new_review_body =                      "has reviewed";
+
+notification_new_message_title =            "%@";
+notification_new_message_body =             "%@";
+notification_new_message_recommend_body =   "Has recommended place for you";
+
+notification_admin_panel_title =            "%@";
+notification_admin_panel_body =             "%@";
+
+

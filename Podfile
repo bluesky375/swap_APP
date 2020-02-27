@@ -1,18 +1,18 @@
 # Uncomment the next /Users/catalina/Documents/IOS/imessageContactDemoline to define a global platform for your project
 # platform :ios, '9.0'
 
-target 'Swap!' do
+target 'Swaping' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for Swap!
+  # Pods for Swaping
 
-  target 'Swap!Tests' do
+  target 'SwapingTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'Swap!UITests' do
+  target 'SwapingUITests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -33,6 +33,11 @@ target 'Swap!' do
   pod "GetSocial/Core"
   pod "GetSocial/UI" # add this pod only if you plan to use GetSocial UI
   pod 'Alamofire', '~> 4.0'
+  pod 'AccordionSwift', '~> 2.0.0'
+  pod 'CountryPickerView'
+  pod 'Fabric'
+  pod 'Crashlytics'
+  pod 'YPImagePicker'
   
 end
 
@@ -52,5 +57,9 @@ target 'Swaptd' do
   pod "GetSocial/Core"
   pod "GetSocial/UI" # add this pod only if you plan to use GetSocial UI
   pod 'Alamofire', '~> 4.0'
-  pod "AlignedCollectionViewFlowLayout"
+  pod 'AccordionSwift', '~> 2.0.0'
+  pod 'CountryPickerView'
+  pod 'Fabric'
+  pod 'Crashlytics'
+  
 end
